@@ -1,4 +1,4 @@
-## Hello, my name is Alaquoke!
+## Hello, my name is Alaquoke!😊
 
 I'm currently studying System's Analysis and Development at Alagoas' Federal Institute.
 
@@ -17,3 +17,12 @@ I'm currently studying System's Analysis and Development at Alagoas' Federal Ins
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/floxllyn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alaquoke)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.de/malualaquoke/)
+
+## I would die for
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![Ifood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
+![Dino](https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=82a1493bb928ykzywgii7jedklelhzzpeslcxz06klm3ebm3&rid=200w.gif&ct=g)
