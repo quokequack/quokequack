@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quokequack&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quokequack&layout=compact)](https://github.com/quokequack/github-readme-stats)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
