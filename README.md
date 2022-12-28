@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quokequack&layout=compact)](https://github.com/quokequack/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quokequack&theme=dracula&count_private=true)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -12,5 +12,3 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Ifood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-
-![Dino](https://media1.giphy.com/media/Q7SKqn3G97xpmfSOvG/200w.gif?cid=82a1493bb928ykzywgii7jedklelhzzpeslcxz06klm3ebm3&rid=200w.gif&ct=g)
