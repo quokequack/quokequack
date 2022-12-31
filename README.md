@@ -1,3 +1,7 @@
+<h3 align="center"> Hello, welcome :) </h3>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/88796071/210154781-848445a8-00d2-45a0-891f-6683b4cc5708.gif"/>
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quokequack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,3 +16,6 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![Ifood](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+</div>
+
+
