@@ -85,5 +85,8 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: quokequack
           plugin_languages_colors: rainbow
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.2.1
+
 
 
