@@ -78,6 +78,9 @@ jobs:
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
+          filename: languages.svg
+          token: ${{ secrets.CONFIG_METRICS_QUOKEQUACK }}
+          base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
           commits_authoring: quokequack
