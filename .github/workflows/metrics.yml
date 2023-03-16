@@ -85,15 +85,7 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: quokequack
           plugin_languages_colors: rainbow
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v2
-        with:
-          filename: snake.svg
-          github_user_name: ${{ github.quokequack }}
-          outputs: 
-                dist/github-snake.svg
-                dist/github-snake-dark.svg?palette=github-dark
-                dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 
 
 
