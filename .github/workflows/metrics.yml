@@ -29,7 +29,8 @@ jobs:
            plugin_16personalities: yes
            plugin_16personalities_url: ${{ secrets.MBTI_QUOKEQUACK }}
            plugin_16personalities_sections: personality, traits
-           plugin_16personalities_scores: yes
+           plugin_16personalities_scores: no
+
       - name: Archievements
         uses: lowlighter/metrics@latest
         with:
@@ -54,7 +55,7 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_anilist: yes
           plugin_anilist_user: alaquoke
-          plugin_anilist_medias: anime
+          plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 5
@@ -65,5 +66,14 @@ jobs:
          token: NOT_NEEDED
          base: ""
          plugin_fortune: yes
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+         filename: metrics.plugin.isocalendar.fullyear.svg
+         token: ${{ secrets.CONFIG_METRICS_QUOKEQUACK }}
+         base: ""
+         plugin_isocalendar: yes
+         plugin_isocalendar_duration: full-year
+
 
 
