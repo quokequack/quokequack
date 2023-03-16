@@ -7,7 +7,7 @@
 <img align='right' width="400" src='https://github.com/quokequack/quokequack/blob/e7ca6041d997deca3d16d061933c44116fa1397d/metrics.plugin.achievements.compact.svg'/>
 </div>
 <div>
-  <img align='left' width="400" src='https://github.com/quokequack/quokequack/blob/9f7ff7a1a6d1b5ae04a527e2e9710ebbbf28ab20/metrics.plugin.fortune.svg'/>
+  <img align='left' width="400" src='https://github.com/quokequack/quokequack/blob/19dfd2b83ad55ab70b21c051c12c2b4172d5ae9d/metrics.plugin.fortune.svg'/>
 </div>
 <div>
 <img align='left' width="400" src='https://github.com/quokequack/quokequack/blob/57992269cec5178b402899204076ad4762e2653b/metrics.plugin.isocalendar.svg'/>
