@@ -1,3 +1,20 @@
+<div>
+<img align='left' src='https://github.com/quokequack/quokequack/blob/e7ca6041d997deca3d16d061933c44116fa1397d/metrics.plugin.fortune.svg'/><br/>
+<img align='right' src='https://github.com/quokequack/quokequack/blob/e7ca6041d997deca3d16d061933c44116fa1397d/metrics.plugin.achievements.compact.svg'/>
+</div>
+<div>
+<img align='left' src='https://github.com/quokequack/quokequack/blob/57992269cec5178b402899204076ad4762e2653b/metrics.plugin.isocalendar.svg'/>
+<img align='right' src='https://github.com/quokequack/quokequack/blob/14c3a323c83624be443d2436f3be891f1fe41f2c/medias.svg'/>
+</div>
+<div>
+<img align='left' src=''/>
+<img align='right' src=''/>
+</div>
+<div>
+<img align='left' src=''/>
+<img align='right' src=''/>
+</div>
 
-![Metrics](https://metrics.lecoq.io/quokequack?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&fortune=1&achievements=1&followup=1&habits=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=8&fortune=false&config.timezone=America%2FFortaleza)
+
+
 
