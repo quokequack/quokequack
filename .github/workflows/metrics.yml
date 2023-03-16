@@ -24,14 +24,11 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
            filename: metrics.plugin.16personalities.svg
-           token: ${{ secrets.CONFIG_METRICS_QUOKEQUACK }}
-           base: ""
+           token: NOT_NEEDED
            plugin_16personalities: yes
            plugin_16personalities_url: https://www.16personalities.com/profiles/d6d91a8393310
            plugin_16personalities_sections: personality, traits
            plugin_16personalities_scores: no
-           extras:
-                  metrics.run.puppeteer.scrapping
 
       - name: Archievements
         uses: lowlighter/metrics@latest
