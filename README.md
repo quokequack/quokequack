@@ -15,7 +15,7 @@
 </div>
 <div>
 <img align='left' width="400" src='https://github.com/quokequack/quokequack/blob/74fa2f980e4ada98b87618c18f98394140ff4cb3/languages.svg'/>
-</div>
+</div> 
 
 
 
