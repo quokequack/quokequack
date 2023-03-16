@@ -30,6 +30,8 @@ jobs:
            plugin_16personalities_url: https://www.16personalities.com/profiles/d6d91a8393310
            plugin_16personalities_sections: personality, traits
            plugin_16personalities_scores: no
+           extras:
+                  metrics.run.puppeteer.scrapping
 
       - name: Archievements
         uses: lowlighter/metrics@latest
@@ -73,5 +75,12 @@ jobs:
            token: ${{ secrets.CONFIG_METRICS_QUOKEQUACK}}
            base: ""
            plugin_isocalendar: yes
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: quokequack
+          plugin_languages_colors: rainbow
 
 
