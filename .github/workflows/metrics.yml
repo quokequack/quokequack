@@ -25,10 +25,12 @@ jobs:
         with:
            filename: metrics.plugin.16personalities.svg
            token: NOT_NEEDED
+           output_action: gist
+           committer_gist: ${{ secrets.GIST }}
            plugin_16personalities: yes
            plugin_16personalities_url: https://www.16personalities.com/profiles/d6d91a8393310
            plugin_16personalities_sections: personality, traits
-           plugin_16personalities_scores: no
+           plugin_16personalities_scores: yes
 
       - name: Archievements
         uses: lowlighter/metrics@latest
@@ -57,7 +59,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 5
+          plugin_anilist_limit_characters: 10
       - name: Fortune
         uses: lowlighter/metrics@latest
         with:
