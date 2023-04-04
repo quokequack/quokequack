@@ -93,7 +93,7 @@ jobs:
              plugin_steam: yes
              plugin_steam_user: "76561199447126221"
              plugin_steam_sections: recently-played
-             plugin_steam_achievements_limit: 0
+             plugin_steam_achievements_limit: 20
 
 
 
