@@ -24,9 +24,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
            filename: metrics.plugin.16personalities.svg
-           token: NOT_NEEDED
-           output_action: gist
-           committer_gist: ${{ secrets.GIST }}
+           token: ${{ secrets.CONFIG_METRICS_QUOKEQUACK }}
+           base: ""
            plugin_16personalities: yes
            plugin_16personalities_url: https://www.16personalities.com/profiles/d6d91a8393310
            plugin_16personalities_sections: personality, traits
@@ -84,6 +83,18 @@ jobs:
           plugin_languages_indepth: yes
           commits_authoring: quokequack
           plugin_languages_colors: rainbow
+      - name: Recently played games
+        uses: lowlighter/metrics@latest
+        with:
+             filename: metrics.plugin.steam.svg
+             token: NOT_NEEDED
+             base: ""
+             plugin_steam_token: ${{ secrets.TOKEN_STEAM }}
+             plugin_steam: yes
+             plugin_steam_user: "76561199447126221"
+             plugin_steam_sections: recently-played
+             plugin_steam_achievements_limit: 0
+
 
 
 
