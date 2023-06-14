@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="581" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="595" class="">
     <defs>
         <style/>
     </defs>
@@ -22,7 +22,7 @@
                             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                             <div class="explanation">
                                 <span class="title" style="color: rgb(51, 164, 116);"><span class="subtitle">Turbulent Advocate</span> personality</span>
-                                <span class="text">Turbulent Advocates are Introverted, Intuitive, Feeling, Judging and Turbulent. They approach life with thoughtfulness and imagination, guided by their principled version of humanism.</span>
+                                <span class="text">Turbulent Advocates are Introverted, Intuitive, Feeling, Judging and Turbulent. Advocates are quiet visionaries, often serving as inspiring and tireless idealists. These rare types are open-minded and imaginative, applying care and creativity.</span>
                             </div>
                         </div>
                         <div class="category">
@@ -51,7 +51,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Introverted</span> mind</span>
-                                <span class="text"> Likely prefers fewer, yet deep and meaningful, social interactions and feels drawn to calmer environments.</span>
+                                <span class="text"> Mostly Introverted. Likely prefers fewer, yet deep and meaningful, social interactions and feels drawn to calmer environments.</span>
                             </div>
                         </div>
                         <div class="category energy">
@@ -62,7 +62,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Intuitive</span> energy</span>
-                                <span class="text"> Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
+                                <span class="text"> Mostly Intuitive. Likely very imaginative and open-minded, focusing on hidden meanings and distant possibilities.</span>
                             </div>
                         </div>
                         <div class="category nature">
@@ -73,7 +73,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Feeling</span> nature</span>
-                                <span class="text"> Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
+                                <span class="text"> Mostly Feeling. Likely values emotional expression and sensitivity, prioritizing empathy, social harmony, and cooperation.</span>
                             </div>
                         </div>
                         <div class="category tactics">
@@ -84,7 +84,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Judging</span> tactics</span>
-                                <span class="text"> Likely decisive, thorough, and highly organized. Values clarity and prefers planning to spontaneity.</span>
+                                <span class="text"> Mostly Judging. Likely decisive, thorough, and highly organized. Values clarity and prefers planning to spontaneity.</span>
                             </div>
                         </div>
                         <div class="category identity">
@@ -95,7 +95,7 @@
                             </svg>
                             <div class="explanation">
                                 <span class="title"><span class="subtitle">Turbulent</span> identity</span>
-                                <span class="text"> Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
+                                <span class="text"> Mostly Turbulent. Likely self-conscious, sensitive to stress, success-driven, perfectionistic, and eager to improve.</span>
                             </div>
                         </div>
                     </section>
