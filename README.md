@@ -3,7 +3,7 @@
 </div>
 <div>
   </br>
-<div align='left'><h5>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm studying to became a FullStack dev and I've FINALLY finished my System's Development course at Alagoas' Federal Institute.  :)<br/>There really isn't much to see here, but i'm glad you came :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </h5>
+<div align='left'><h5>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm stu(dying) to became a FullStack dev and I've FINALLY finished my System's Development course at Alagoas' Federal Institute.  :)<br/>There really isn't much to see here, but i'm glad you came :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </h5>
 <img align='right' width="400" src='metrics.plugin.achievements.compact.svg'/>
 </div>
 <div>
