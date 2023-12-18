@@ -3,7 +3,7 @@
 </div>
 <div>
 </br>
-<div align='left'><h5>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm a software developer and I'm currently working with PHP, Laravel and Vue.js.<br/>There really isn't much to see here, my github is dying because I only use GitLab for working. I'm really glad you came tho :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </h5>
+<div align='left'><h5>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm a software developer and I'm currently working with PHP, Laravel and Vue.js.<br/>There really isn't much to see here, my github is dying because I only use GitLab for working. Really glad you came tho :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </h5>
 <div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
