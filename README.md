@@ -24,7 +24,6 @@
 <img align='left' width="400" src='languages.svg'/>
 </div>
 <div>
-<img align='left' width='400' src='metrics.plugin.16personalities.svg'/>
 <img align='right' width='400' src='metrics.plugin.steam.svg'/>
 </div>
 
