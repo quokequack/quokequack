@@ -44,6 +44,7 @@ jobs:
            plugin_achievements_display: compact
            plugin_achievements_threshold: X
       - name: Social Medias
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: medias.svg
