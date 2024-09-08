@@ -16,7 +16,7 @@
 </div>
 <div>
 <img align='left' width="400" src='isocalendar.svg'/>
-<img align='right'  width="400" src='medias.svg'/>
+<img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
 </div>
 <div>
 <img align='left' width="400" src='languages.svg'/>
