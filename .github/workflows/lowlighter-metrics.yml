@@ -43,16 +43,6 @@ jobs:
           token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_languages: yes
-      - name: MBTI Personality profile
-        uses: lowlighter/metrics@latest
-        with:
-          filename: 16personalities.svg
-          token: ${{ secrets.UPDATING_METRICS }}
-          base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/d6d91a8393310"
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: yes
       - name: Fortune
         uses: lowlighter/metrics@latest
         with:
@@ -60,14 +50,6 @@ jobs:
           token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_fortune: yes
-      - name: Spotify - Top tracks
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotify.svg
-          token: ${{ secrets.UPDATING_METRICS }}
-          base: ""
-          plugin_music: yes
-          plugin_music_playlist: "https://open.spotify.com/embed/playlist/65GUQPK7W84yM3iO9oLQGU?utm_source=generator"
       - name: Favorites anime and currently watching
         uses: lowlighter/metrics@latest
         with:
@@ -86,3 +68,12 @@ jobs:
            token: ${{ secrets.UPDATING_METRICS}}
            base: ""
            plugin_isocalendar: yes
+      - name: Featured star list
+        uses: lowlighter/metrics@latest
+        with:
+          filename: starlists.svg
+          token: ${{ secrets.UPDATING_METRICS}}
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_limit_repositories: 5
+          plugin_starlists_only: TC39
