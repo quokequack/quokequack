@@ -2,7 +2,6 @@
     <img src='https://user-images.githubusercontent.com/88796071/225752409-1d2e13c8-3119-4e57-b8b9-73efe5b09928.gif'/>
     <br>
     <img width="400" src='metrics.plugin.fortune.svg'/>
-    <br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tuwi5m55cgkq47z6xfuy6c5sna&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tuwi5m55cgkq47z6xfuy6c5sna&cover_image=true&theme=novatorem&show_offline=true&background_color=e3ccff&interchange=true&bar_color=ffa3ba&bar_color_cover=false"/>
 </div>
 <div>
@@ -21,9 +20,6 @@
 <div>
  <img align='left' width="400" src='metrics.plugin.activity.svg'/>
  <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
-</div>
-<div>
-
 </div>
 
 
