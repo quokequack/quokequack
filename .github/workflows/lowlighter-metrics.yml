@@ -50,7 +50,7 @@ jobs:
           token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_16personalities: yes
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/d6d91a8393310"
+          plugin_16personalities_url: https://www.16personalities.com/profiles/d6d91a8393310
           plugin_16personalities_sections: personality, traits
           plugin_16personalities_scores: yes
       - name: Fortune
@@ -83,5 +83,10 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
           plugin_anilist_user: alaquoke
-
-
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+           filename: isocalendar.svg
+           token: ${{ secrets.UPDATING_METRICS}}
+           base: ""
+           plugin_isocalendar: yes
