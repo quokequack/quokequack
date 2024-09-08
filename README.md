@@ -15,14 +15,13 @@
   <img align='left' width="400" src='metrics.plugin.fortune.svg'/>
 </div>
 <div>
-<img align='left' width="400" src='metrics.plugin.isocalendar.svg'/>
+<img align='left' width="400" src='isocalendar.svg'/>
 <img align='right'  width="400" src='medias.svg'/>
 </div>
 <div>
 <img align='left' width="400" src='languages.svg'/>
 </div>
 <div>
-<img align='right' width='400' src='metrics.plugin.steam.svg'/>
 </div>
 
 
