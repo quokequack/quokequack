@@ -70,6 +70,7 @@ jobs:
       - name: Spotify - Top tracks
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.spotify.svg,
           token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_music: yes
@@ -82,7 +83,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.anilist.svg
-          oken: ${{ secrets.UPDATING_METRICS }}
+          token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_anilist: yes
           plugin_anilist_medias: anime
