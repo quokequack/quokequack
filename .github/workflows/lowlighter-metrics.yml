@@ -78,5 +78,16 @@ jobs:
           plugin_music_token: ${{ secrets.SPOTIFY }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          oken: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
+          plugin_anilist_user: alaquoke
 
 
