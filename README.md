@@ -22,6 +22,7 @@
 <img align='left' width="400" src='languages.svg'/>
 </div>
 <div>
+ <img align='left' width="400" src='metrics.plugin.activity.svg'/>
 </div>
 
 
