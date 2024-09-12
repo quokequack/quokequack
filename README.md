@@ -2,7 +2,7 @@
     <img width="150" src='balrog.gif'/>
 </div>
 
-<div align='left'>
+<div align='center'>
     <img src='https://user-images.githubusercontent.com/88796071/225752409-1d2e13c8-3119-4e57-b8b9-73efe5b09928.gif'/>
     <hr>
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tuwi5m55cgkq47z6xfuy6c5sna&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tuwi5m55cgkq47z6xfuy6c5sna&cover_image=true&theme=novatorem&show_offline=true&background_color=e3ccff&interchange=true&bar_color=ffa3ba&bar_color_cover=false"/>
