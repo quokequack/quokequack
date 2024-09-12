@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="150" src='balrog.gif'/>
+    <img width="200" src='balrog.gif'/>
 </div>
 <br>
 <div>
