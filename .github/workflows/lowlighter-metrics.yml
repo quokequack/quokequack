@@ -20,11 +20,10 @@ jobs:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.UPDATING_METRICS }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
           plugin_achievements_threshold: X
       - name: JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@latest
