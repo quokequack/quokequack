@@ -28,7 +28,7 @@
  <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
 </div>
 <div>
- <img align='left' width="400" src='metrics.plugin.code.svg'/>
+ <img align='left' width="400" src='metrics.plugin.wakatime.svg'/>
  <img align='right' width="400" src="fourfavorites.jpeg"/>
 </div>
 
