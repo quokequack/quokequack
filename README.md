@@ -15,6 +15,9 @@
 <hr>
 <div align="center">
     <p> This Github Readme super cool was made using Lowlighter Metrics and Github Actions. You can access Metrics by this gorgeous and shinning link! </p>
+    <div align="center">
+        <img src="duck ducky.gif"><a href="https://google.com"></a></img>
+    </div>
     <img src="https://profile-counter.glitch.me/quokequack/count.svg"/>
 </div>
     <p align="center">
