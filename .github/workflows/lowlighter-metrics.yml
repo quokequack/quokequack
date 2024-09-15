@@ -35,15 +35,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: JavaScript or TypeScript snippet of the day
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.code.svg
-          token: ${{ secrets.UPDATING_METRICS }}
-          base: ""
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, php, python, java
-          plugin_code_load: 400
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
@@ -86,12 +77,4 @@ jobs:
            token: ${{ secrets.UPDATING_METRICS}}
            base: ""
            plugin_isocalendar: yes
-      - name: Featured star list
-        uses: lowlighter/metrics@latest
-        with:
-          filename: starlists.svg
-          token: ${{ secrets.UPDATING_METRICS}}
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_limit_repositories: 5
-          plugin_starlists_only: TC39
+
