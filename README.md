@@ -11,14 +11,10 @@
     <img align="right" src='metrics.plugin.fortune.svg'/>
 </div>
 
-<div align='left'><h4>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm a software developer and I'm currently working with Laravel and Vue.js.<br> I'm obsessed with Lord of the Rings and Harry Potter. I love cup noodles, Lana del Rey and Game of Thrones.<br/>There really isn't much to see here, my github is dying because I only use GitLab for work. Really glad you came tho :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </h4>
-<hr>
-<div align="center">
-    <p> This Github Readme super cool was made using Lowlighter Metrics and Github Actions. You can access Metrics by this gorgeous and shinning link! </p>
+<div align='left'><p>Hey, welcome! Make yourself confortable :)<br/> My name is Alaquoke. I'm a software developer and I'm currently working with Laravel and Vue.js.<br> I'm obsessed with Lord of the Rings and Harry Potter. I love cup noodles, Lana del Rey and Game of Thrones.<br/>There really isn't much to see here, my github is dying because I only use GitLab for work. Really glad you came tho :smiling_face_with_three_hearts::smiling_face_with_three_hearts::smiling_face_with_three_hearts: </p>
     <div align="center">
-        <img src="duck ducky.gif"><a href="https://google.com"></a></img>
-    </div>
-    <img src="https://profile-counter.glitch.me/quokequack/count.svg"/>
+    <img src="https://badges.pufler.dev/visits/quokequack/quokequack"/> <p>Made with metrics provided by <a href="https://github.com/lowlighter/metrics">Lowlighter </a></p>
+        <hr>
 </div>
     <p align="center">
   <a href="https://skillicons.dev">
@@ -38,8 +34,7 @@
 <div>
  <img align='left' width="400" src='metrics.plugin.activity.svg'/>
 </div>
-<hr>
-<br>
+
 
 
 
