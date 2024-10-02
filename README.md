@@ -7,7 +7,6 @@
             <img align='center' src='https://user-images.githubusercontent.com/88796071/225752409-1d2e13c8-3119-4e57-b8b9-73efe5b09928.gif'/>
     </div>
     <hr>
-        <img src="metrics.plugin.lastfm.svg"/>
         <img align="right" src='metrics.plugin.fortune.svg'/>
 </div>
 
