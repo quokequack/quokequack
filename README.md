@@ -21,7 +21,7 @@
   </a>
 </p>
  <img align='left' width="400" src='languages.svg'/>
-<img align='right' width="400" src='metrics.plugin.achievements.svg'/>
+<img align='right' width="400" src='metrics.plugin.lastfm.svg'/>
 </div>
 <div>
 <img align='left' width="400" src='isocalendar.svg'/>
