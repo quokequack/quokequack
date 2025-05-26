@@ -20,16 +20,14 @@
     <img src="https://skillicons.dev/icons?i=laravel,php,javascript,vue,vuetify,mysql,bootstrap,git,gitlab,notion" />
   </a>
 </p>
- <img align='left' width="400" src='languages.svg'/>
+     <img align='left' width="400" src='languages.svg'/>
 </div>
 <div>
-<img align='left' width="400" src='isocalendar.svg'/>
+    <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
+    <img align='left' width="400" src='isocalendar.svg'/>
 </div>
 <div>
-     <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
-</div>
-<div>
- <img align='left' width="400" src='metrics.plugin.activity.svg'/>
+    <img align='left' width="400" src='metrics.plugin.activity.svg'/>
 </div>
 
 
