@@ -26,9 +26,6 @@
     <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
     <img align='left' width="400" src='isocalendar.svg'/>
 </div>
-<div>
-    <img align='left' width="400" src='metrics.plugin.activity.svg'/>
-</div>
 
 
 
