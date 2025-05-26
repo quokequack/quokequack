@@ -21,13 +21,11 @@
   </a>
 </p>
  <img align='left' width="400" src='languages.svg'/>
-<img align='right' width="400" src='metrics.plugin.achievements.compact.svg'/>
 </div>
 <div>
 <img align='left' width="400" src='isocalendar.svg'/>
 </div>
 <div>
-     <img align='left' width="400" src='metrics.plugin.wakatime.svg'/>
      <img align='right'  width="400" src='metrics.plugin.anilist.svg'/>
 </div>
 <div>
