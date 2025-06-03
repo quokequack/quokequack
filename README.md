@@ -1,4 +1,5 @@
 <div align="center">
+    <img width="200" src='balrog.gif'/>
 </div>
 <br>
 <div>
