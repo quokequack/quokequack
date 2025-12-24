@@ -25,6 +25,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">Just A Girl</div>
+                                    <div class="artist">No Doubt</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">A Pearl</div>
                                     <div class="artist">Mitski</div>
                                 </div>
@@ -32,8 +39,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">O My Heart</div>
-                                    <div class="artist">Mother Mother</div>
+                                    <div class="name">Born Singer</div>
+                                    <div class="artist">BTS</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -41,13 +48,6 @@
                                 <div class="infos">
                                     <div class="name">Body</div>
                                     <div class="artist">Mother Mother</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Choke</div>
-                                    <div class="artist">I DONT KNOW HOW BUT THEY FOUND ME</div>
                                 </div>
                             </div>
                         </div>
