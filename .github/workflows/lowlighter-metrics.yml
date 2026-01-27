@@ -25,6 +25,18 @@ jobs:
           base: ""
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1Epf1LXcHoVuz1?utm_source=generator
+          name: Compact display
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.UPDATING_METRICS }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+              polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+              scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
