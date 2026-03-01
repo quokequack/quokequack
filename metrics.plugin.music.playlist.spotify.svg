@@ -25,15 +25,8 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Uprising</div>
-                                    <div class="artist">Muse</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Hysteria</div>
-                                    <div class="artist">Muse</div>
+                                    <div class="name">Angels Like You</div>
+                                    <div class="artist">Miley Cyrus</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -41,6 +34,13 @@
                                 <div class="infos">
                                     <div class="name">Rollin' (Air Raid Vehicle)</div>
                                     <div class="artist">ELimp Bizkit</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">All The Things She Said</div>
+                                    <div class="artist">Poppy</div>
                                 </div>
                             </div>
                             <div class="track">
