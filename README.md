@@ -44,11 +44,27 @@
       />
     </a>
   </p>
-  <img align='left' width="400" src='languages.svg' />
+
+  <table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>Pick Me</h3>
+        <p>A hobby web app game where users pick their favorite anime between two choices, built as a project to practice and improve my DSA skills</p>
+        <a href="https://github.com/quokequack/PickMe">Repo</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>Lamarr</h3>
+        <p>Lamarr is a studies roadmap generator</p>
+        <a href="https://github.com/quokequack/Lamarr-html">Repo</a>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 <div>
   <img align='right' width="400" src='metrics.plugin.anilist.svg' />
   <img align='left' width="400" src='isocalendar.svg' />
-          <img width="200" src='gatling.gif' />
-
 </div>
